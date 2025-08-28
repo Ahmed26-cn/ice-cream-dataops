@@ -5,7 +5,7 @@ destination:
     space: cdf_cdm
     externalId: CogniteCore
     version: v1
-    destinationType: CogniteAssets
+    destinationType: CogniteAsset
   instanceSpace: icapi_dm_space
   type: instances
 ignoreNullFields: true
